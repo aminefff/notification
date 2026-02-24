@@ -1,0 +1,25 @@
+{
+  "short_name": "المتميز",
+  "name": "منصة المتميز التعليمية",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/SDT3LtNC/IMG-20260111-172954.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://i.ibb.co/SDT3LtNC/IMG-20260111-172954.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://i.ibb.co/SDT3LtNC/IMG-20260111-172954.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffc633",
+  "background_color": "#000000"
+}
