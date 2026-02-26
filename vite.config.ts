@@ -10,7 +10,7 @@ export default defineConfig({
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
       manifest: {
         name: 'المتميز التعليمي',
-        short_name: 'المتميز',
+        short_name: 'almoutamayiz',
         description: 'رفيقك الذكي للنجاح في البكالوريا',
         theme_color: '#000000',
         background_color: '#000000',
